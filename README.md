@@ -140,7 +140,9 @@ int main()
 }
 ```
 ## OUTPUT
-![cd 2](https://github.com/user-attachments/assets/4d192d02-0914-4698-a026-0372b8a209c1)
+
+![compex2img1](https://github.com/user-attachments/assets/86a8c102-c0f7-49a3-ab19-ebabaf01fbab)
+
 
 ## RESULT
  The lexical analyzer is implemented using lex and the output is verified.
