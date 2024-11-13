@@ -1,5 +1,6 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 ## REG.NO:212223110061
+## Date : 05.09.2024
 ## NAME: S VENGADA KRISHNAN
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
